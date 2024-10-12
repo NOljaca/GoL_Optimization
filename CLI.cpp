@@ -1,5 +1,5 @@
 //
-// Created by nicoc on 14.05.2024.
+// Authors: Nikola Oljaca
 //
 #include "../include/GameOfLife.h"
 #include <chrono>
