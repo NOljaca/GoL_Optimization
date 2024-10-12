@@ -1,5 +1,5 @@
 //
-// Created by nicoc on 13.05.2024.
+// Authors: Richard Nicols and Nikola Oljaca
 //
 
 #include <utility>
